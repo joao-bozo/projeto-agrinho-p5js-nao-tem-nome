@@ -1,0 +1,5 @@
+O Jogo da Fazenda é uma experiência divertida e educativa, ideal para crianças ou qualquer pessoa que queira testar seus conhecimentos sobre animais da fazenda. A cada rodada, o jogo apresenta uma descrição de um animal, como "Este animal dá leite e tem grandes orelhas" ou "Este animal põe ovos e canta 'cócóricó'". O jogador deve então digitar o nome do animal correspondente e clicar no botão "Verificar".
+
+Se o palpite estiver correto, a mensagem "Você acertou!" será exibida, e o jogador pode seguir para o próximo animal. Caso o palpite esteja errado, a resposta correta será revelada, e o jogador poderá tentar novamente com outro animal. O jogo é projetado para ser simples e divertido, com botões para verificar a resposta ou avançar para o próximo animal.
+
+Cada animal é representado por um objeto contendo seu nome e uma descrição breve, tornando o jogo intuitivo e fácil de jogar. O estado do jogo muda conforme o progresso do jogador, com mensagens de feedback sobre a resposta, e a interface é limpa, com uma tela interativa para facilitar a navegação e interação.
